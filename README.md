@@ -1,3 +1,8 @@
- Dictionary in Python
- Used json library 
- Used difflib library 
+# DICTIONARY IN PYTHON
+
+Dependcies:
+`
+import json
+import difflab
+`
+
