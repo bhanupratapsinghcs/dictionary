@@ -5,6 +5,9 @@ Dependcies:
 import json
 import difflib
 ```
+## All the meanings are stored in json file which is loaded in dictionary
+`words.json`
+
 ### I created six different clones and one final **Dictionary file**
 - dict1.py
 > A simple code that just loads the data stored in json format into dictionary format in Python
